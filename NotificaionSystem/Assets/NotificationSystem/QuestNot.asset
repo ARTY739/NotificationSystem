@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 877bbb2555675534ab06b4129d1d54b4, type: 3}
+  m_Name: QuestNot
+  m_EditorClassIdentifier: 
+  name: Diamond
+  description: Get diamond
+  message: "\u0422\u044B Diamond, \u0441\u0440\u0435\u0434\u0438 \u0432\u0441\u0435\u0445
+    \u043F\u043E\u0434\u0434\u0435\u043B\u043E\u043A \u0442\u044B \u043E\u0434\u043D\u0430
+    \u0441\u0438\u044F\u0435\u0448\u044C!"
+  icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  backgroundColor: {r: 0, g: 0.24262592, b: 0.254717, a: 1}
+  audio: {fileID: 8300000, guid: ef8a62c32ae196f4cb3fe6ec552a36b5, type: 3}
+  lifeTime: 2
+  prefab: {fileID: 3296832589685698581, guid: 9badc843ec110134887559303041e3ce, type: 3}
